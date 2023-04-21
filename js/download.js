@@ -1,4 +1,4 @@
-var defaultVersion = 'arrow-11.0';
+var defaultVersion = 's';
 var defaultVariant = 'official';
 var supportedVersions = [];
 var supportedVariants = [];
